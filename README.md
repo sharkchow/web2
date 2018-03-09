@@ -1,6 +1,6 @@
 # V2Ray Client Downloads List
 *Hello! 
-## 科学上网 V2Ray客户端
+## V2Ray客户端 科学上网工具
 *首先到(门)网站：<https://www.namaho.org> 里下载客户端 
 
 **门里的客户端有两种:**
