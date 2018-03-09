@@ -1,6 +1,5 @@
 # Welcome to sharkchow Website
-*Hello! You're looking at Stariped 
-styling for all basic page elements
+*Hello! 
 ## 科学上网 V2Ray客户端
 *首先到网站：(门）https://www.namaho.org/里下载客户端 
 
