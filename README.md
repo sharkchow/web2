@@ -17,12 +17,12 @@ styling for all basic page elements
 
 更多v2ray客户端可以在这里找到：<https://www.v2ray.com/ui_client>
 
-**Shadowsocks客户端:**
-   * Android客户端：[shadowsocks-android](https://play.google.com/store/apps/details?id=com.github.shadowsocks"科学上网")
-   * iOS客户端： [Kitsunebi](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8"越获")
-   * Windows客户端：[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases"翻墙")
-   * macOS客户端：[shadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases"苹果Mac客端")
-   * Linux客户端：[shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation"Linux客端")
+Shadowsocks客户端:
+ * Android客户端：[shadowsocks-android](https://play.google.com/store/apps/details?id=com.github.shadowsocks"科学上网")
+ * iOS客户端： [Kitsunebi](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8"越获")
+ * Windows客户端：[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases"翻墙")
+ * macOS客户端：[shadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases"苹果Mac客端")
+ * Linux客户端：[shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation"Linux客端")
 
 更多shadowsocks客户端可以在这里找到：<https://shadowsocks.org/en/download/clients.html>
 
