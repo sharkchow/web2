@@ -1,6 +1,6 @@
 # V2Ray Client Downloads List
 *Hello! 
-## V2Ray客户端 科学上网
+## V2Ray客户端 科学上网  当前只有V2ray kcp协议可用  请将协议设为mKCP
 **首先到(门)：<https://www.namaho.org> 里下载客户端**
 
 
